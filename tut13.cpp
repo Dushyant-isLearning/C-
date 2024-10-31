@@ -1,3 +1,5 @@
+// Arrays and pointer arithmetic
+
 #include <iostream>
 using namespace std;
 
