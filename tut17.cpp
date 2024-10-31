@@ -1,3 +1,5 @@
+// Inline functions, default arguments, constant arguments and static variables
+
 #include <iostream>
 using namespace std;
 
